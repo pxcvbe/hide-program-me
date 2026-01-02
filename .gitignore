@@ -1,0 +1,41 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Build folders =====
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# ===== Visual C++ build artifacts =====
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+
+# ===== Visual Studio project cache =====
+*.VC.db
+*.VC.opendb
+
+# ===== Filters & intermediate files =====
+*.vcxproj.user
+
+# ===== OS junk =====
+Thumbs.db
+.DS_Store
+
+# ===== Optional: ignore solution if needed =====
+# *.sln
