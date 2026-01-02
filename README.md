@@ -1,6 +1,8 @@
 # Hide Program Me
 
-A simple obfuscate / randomize program title using C++, Visual Studio
+A simple obfuscate / randomize program title using C++, Visual Studio. 
+
+⚠️ (_educational purpose only_)
 
 ## GIF / Video 🎞️
 ![hide-me-program (1)](https://github.com/user-attachments/assets/f251a786-ccaf-4485-80c6-b9d6050a8cad)
