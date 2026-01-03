@@ -1,4 +1,4 @@
-# Hide Program Me
+# Hide My Program
 
 A simple obfuscate / randomize program title using C++, Visual Studio. 
 
